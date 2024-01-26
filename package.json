@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ismailsardar/Inventory-Management-BackEnd.git"
+    "url": "git+https://github.com/ShuvoProgram/InventoryPro_Backend"
   },
   "bugs": {
-    "url": "https://github.com/ismailsardar/Inventory-Management-BackEnd/issues"
+    "url": "https://github.com/ShuvoProgram/InventoryPro_Backend/issues"
   },
-  "homepage": "https://github.com/ismailsardar/Inventory-Management-BackEnd#readme",
+  "homepage": "https://github.com/ShuvoProgram/InventoryPro_Backend#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
