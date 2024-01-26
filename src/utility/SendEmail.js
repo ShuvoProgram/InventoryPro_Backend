@@ -2,11 +2,11 @@ var nodemailer = require("nodemailer");
 
 const SendEmail = async (EmailTo, EmailText, EmailSubject) => {
   let transporter = nodemailer.createTransport({
-    host: "mail.teamrabbil.com",
+    host: "mail.gmail.com",
     port: 25,
     secure: false,
     auth: {
-      user: "info@teamrabbil.com",
+      user: "shuvoprogramer@gmail.com",
       pass: "~sR4[bhaC[Qs",
     },
     tls: {
@@ -15,7 +15,7 @@ const SendEmail = async (EmailTo, EmailText, EmailSubject) => {
   });
 
   let mailOptions = {
-    from: "Inventory <info@teamrabbil.com>",
+    from: "Inventory <shuvoprogramer@gmail.com>",
     to: EmailTo,
     subject: EmailSubject,
     text: EmailText,
