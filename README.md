@@ -219,13 +219,6 @@ This API provides endpoints for managing various aspects of an inventory managem
 - Purchases Summary: GET /purchaseSummary
 - Sales Summary: GET /salesSummary
 
-# Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
 # Authors
 
 - [@Shuvo khan](https://github.com/ShuvoProgram)
